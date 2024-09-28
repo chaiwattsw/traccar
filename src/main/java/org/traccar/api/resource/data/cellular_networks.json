@@ -1,0 +1,92 @@
+ [
+        {
+            "code": "ais",
+            "desc": "AIS",
+            "desc_en": "AIS"
+        },
+        {
+            "code": "dtac",
+            "desc": "DTAC",
+            "desc_en": "DTAC"
+        },
+        {
+            "code": "true",
+            "desc": "TRUE",
+            "desc_en": "TRUE"
+        },
+        {
+            "code": "catรายเดือน",
+            "desc": "CAT(รายเดือน)",
+            "desc_en": "CAT(Monthly)"
+        },
+        {
+            "code": "aisเติมเงิน",
+            "desc": "AIS (เติมเงิน)",
+            "desc_en": "AIS (Prepaid)"
+        },
+        {
+            "code": "dtacเติมเงิน",
+            "desc": "DTAC (เติมเงิน)",
+            "desc_en": "DTAC (Prepaid)"
+        },
+        {
+            "code": "trueเติมเงิน",
+            "desc": "TRUE (เติมเงิน)",
+            "desc_en": "TRUE (Prepaid)"
+        },
+        {
+            "code": "catเติมเงิน",
+            "desc": "CAT(เติมเงิน)",
+            "desc_en": "CAT(Prepaid)"
+        },
+        {
+            "code": "trueaec",
+            "desc": "TRUE(สำหรับใช้ต่างประเทศ)",
+            "desc_en": "TRUE(สำหรับใช้ต่างประเทศ)"
+        },
+        {
+            "code": "penguinรายเดือน",
+            "desc": "PENGUIN(รายเดือน)",
+            "desc_en": "PENGUIN(Monthly)"
+        },
+        {
+            "code": "AJรายเดือน",
+            "desc": "AJ (รายเดือน)",
+            "desc_en": "AJ (PostPaid)"
+        },
+        {
+            "code": "AJเติมเงิน",
+            "desc": "AJ (เติมเงิน)",
+            "desc_en": "AJ (PrePaid)"
+        },
+        {
+            "code": "PENGUIN AEC (รายเดือน)",
+            "desc": "PENGUIN AEC (รายเดือน)",
+            "desc_en": "PENGUIN AEC (PostPaid)"
+        },
+        {
+            "code": "ลาว unitel (เติมเงิน)",
+            "desc": "ลาว unitel (เติมเงิน)",
+            "desc_en": "LAO Unitel (Prepaid)"
+        },
+        {
+            "code": "ลาว ETL (เติมเงิน)",
+            "desc": "ลาว ETL (เติมเงิน)",
+            "desc_en": "LAO ETL (Prepaid)"
+        },
+        {
+            "code": "TRUE AEC (เติมเงิน)",
+            "desc": "TRUE AEC (เติมเงิน)",
+            "desc_en": "TRUE AEC (Prepaid)"
+        },
+        {
+            "code": "AIS GOMO (รายเดือน)",
+            "desc": "AIS GOMO (รายเดือน)",
+            "desc_en": "AIS GOMO (PostPaid)"
+        },
+        {
+            "code": "TRUE H (รายเดือน)",
+            "desc": "TRUE H (รายเดือน)",
+            "desc_en": "TRUE H (PostPaid)"
+        }
+    ]

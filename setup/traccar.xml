@@ -9,4 +9,6 @@
     <entry key='database.user'>sa</entry>
     <entry key='database.password'></entry>
 
+    <entry key='brands.file.path'>conf/car_brands.json</entry>
+
 </properties>
